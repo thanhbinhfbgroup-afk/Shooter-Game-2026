@@ -1,0 +1,8 @@
+<root>
+    <table name="TbItem" value="Item" input="ItemConfig.xlsx"/>
+    <bean name="Item">
+        <var name="id" type="int"/>
+        <var name="name" type="string"/>
+        <var name="price" type="int"/>
+    </bean>    
+</root>
